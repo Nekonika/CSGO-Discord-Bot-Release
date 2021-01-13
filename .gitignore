@@ -351,3 +351,12 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Localization file
+alerts.json
+
+# Instance specific settings
+Data/
+
+# app.publish
+app.publish/
