@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity name="Discord_Bot.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Discord_Bot" version="0.10.10.1" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="Discord_Bot" version="0.10.10.2" language="neutral" processorArchitecture="msil" />
     <commandLine file="Discord_Bot.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -127,13 +127,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Discord_Bot.exe" size="176096">
-      <assemblyIdentity name="Discord_Bot" version="0.10.10.1" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="Discord_Bot" version="0.10.10.2" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PdfQEBDgDis/s7KgGBIl4sP4oD4ayiC6KLMYeme3Jv0=</dsig:DigestValue>
+        <dsig:DigestValue>K+JKnkRcAaU8eKKEvwUpQ2J1BT9ce5KvLvITt1l3Ol8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
